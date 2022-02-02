@@ -1,0 +1,223 @@
+continent,location,iso_2,iso_code,flag_url
+North America,Aruba,AW,ABW,https://www.worldometers.info/img/flags/aw-flag.gif
+Asia,Afghanistan,AF,AFG,https://www.worldometers.info/img/flags/af-flag.gif
+Africa,Angola,AO,AGO,https://www.worldometers.info/img/flags/ao-flag.gif
+North America,Anguilla,AI,AIA,https://www.worldometers.info/img/flags/ai-flag.gif
+Europe,Albania,AL,ALB,https://www.worldometers.info/img/flags/al-flag.gif
+Europe,Andorra,AD,AND,https://www.worldometers.info/img/flags/ad-flag.gif
+Asia,United Arab Emirates,AE,ARE,https://www.worldometers.info/img/flags/ae-flag.gif
+South America,Argentina,AR,ARG,https://www.worldometers.info/img/flags/ar-flag.gif
+Asia,Armenia,AM,ARM,https://www.worldometers.info/img/flags/am-flag.gif
+North America,Antigua and Barbuda,AG,ATG,https://www.worldometers.info/img/flags/ag-flag.gif
+Oceania,Australia,AU,AUS,https://www.worldometers.info/img/flags/au-flag.gif
+Europe,Austria,AT,AUT,https://www.worldometers.info/img/flags/at-flag.gif
+Asia,Azerbaijan,AZ,AZE,https://www.worldometers.info/img/flags/az-flag.gif
+Africa,Burundi,BI,BDI,https://www.worldometers.info/img/flags/bi-flag.gif
+Europe,Belgium,BE,BEL,https://www.worldometers.info/img/flags/be-flag.gif
+Africa,Benin,BJ,BEN,https://www.worldometers.info/img/flags/bj-flag.gif
+Africa,Burkina Faso,BF,BFA,https://www.worldometers.info/img/flags/bf-flag.gif
+Asia,Bangladesh,BD,BGD,https://www.worldometers.info/img/flags/bd-flag.gif
+Europe,Bulgaria,BG,BGR,https://www.worldometers.info/img/flags/bg-flag.gif
+Asia,Bahrain,BH,BHR,https://www.worldometers.info/img/flags/bh-flag.gif
+North America,Bahamas,BS,BHS,https://www.worldometers.info/img/flags/bs-flag.gif
+Europe,Bosnia and Herzegovina,BA,BIH,https://www.worldometers.info/img/flags/ba-flag.gif
+Europe,Belarus,BY,BLR,https://www.worldometers.info/img/flags/by-flag.gif
+North America,Belize,BZ,BLZ,https://www.worldometers.info/img/flags/bz-flag.gif
+North America,Bermuda,BM,BMU,https://www.worldometers.info/img/flags/bm-flag.gif
+South America,Bolivia,BO,BOL,https://www.worldometers.info/img/flags/bo-flag.gif
+South America,Brazil,BR,BRA,https://www.worldometers.info/img/flags/br-flag.gif
+North America,Barbados,BB,BRB,https://www.worldometers.info/img/flags/bb-flag.gif
+Asia,Brunei,BN,BRN,https://www.worldometers.info/img/flags/bn-flag.gif
+Asia,Bhutan,BT,BTN,https://www.worldometers.info/img/flags/bt-flag.gif
+Africa,Botswana,BW,BWA,https://www.worldometers.info/img/flags/bw-flag.gif
+Africa,Central African Republic,CF,CAF,https://www.worldometers.info/img/flags/cf-flag.gif
+North America,Canada,CA,CAN,https://www.worldometers.info/img/flags/ca-flag.gif
+Europe,Switzerland,CH,CHE,https://www.worldometers.info/img/flags/ch-flag.gif
+South America,Chile,CL,CHL,https://www.worldometers.info/img/flags/cl-flag.gif
+Asia,China,CN,CHN,https://www.worldometers.info/img/flags/cn-flag.gif
+Africa,Cote d'Ivoire,CI,CIV,https://www.worldometers.info/img/flags/ci-flag.gif
+Africa,Cameroon,CM,CMR,https://www.worldometers.info/img/flags/cm-flag.gif
+Africa,Democratic Republic of Congo,CD,COD,https://www.worldometers.info/img/flags/cd-flag.gif
+Africa,Congo,CG,COG,https://www.worldometers.info/img/flags/cg-flag.gif
+Oceania,Cook Islands,CK,COK,https://www.worldometers.info/img/flags/ck-flag.gif
+South America,Colombia,CO,COL,https://www.worldometers.info/img/flags/co-flag.gif
+Africa,Comoros,KM,COM,https://www.worldometers.info/img/flags/km-flag.gif
+Africa,Cape Verde,CV,CPV,https://www.worldometers.info/img/flags/cv-flag.gif
+North America,Costa Rica,CR,CRI,https://www.worldometers.info/img/flags/cr-flag.gif
+North America,Cuba,CU,CUB,https://www.worldometers.info/img/flags/cu-flag.gif
+North America,Curacao,CW,CUW,https://www.worldometers.info/img/flags/cw-flag.gif
+North America,Cayman Islands,KY,CYM,https://www.worldometers.info/img/flags/ky-flag.gif
+Europe,Cyprus,CY,CYP,https://www.worldometers.info/img/flags/cy-flag.gif
+Europe,Czechia,CZ,CZE,https://www.worldometers.info/img/flags/cz-flag.gif
+Europe,Germany,DE,DEU,https://www.worldometers.info/img/flags/de-flag.gif
+Africa,Djibouti,DJ,DJI,https://www.worldometers.info/img/flags/dj-flag.gif
+North America,Dominica,DM,DMA,https://www.worldometers.info/img/flags/dm-flag.gif
+Europe,Denmark,DK,DNK,https://www.worldometers.info/img/flags/dk-flag.gif
+North America,Dominican Republic,DO,DOM,https://www.worldometers.info/img/flags/do-flag.gif
+Africa,Algeria,DZ,DZA,https://www.worldometers.info/img/flags/dz-flag.gif
+South America,Ecuador,EC,ECU,https://www.worldometers.info/img/flags/ec-flag.gif
+Africa,Egypt,EG,EGY,https://www.worldometers.info/img/flags/eg-flag.gif
+Africa,Eritrea,ER,ERI,https://www.worldometers.info/img/flags/er-flag.gif
+Europe,Spain,ES,ESP,https://www.worldometers.info/img/flags/es-flag.gif
+Europe,Estonia,EE,EST,https://www.worldometers.info/img/flags/ee-flag.gif
+Africa,Ethiopia,ET,ETH,https://www.worldometers.info/img/flags/et-flag.gif
+Europe,Finland,FI,FIN,https://www.worldometers.info/img/flags/fi-flag.gif
+Oceania,Fiji,FJ,FJI,https://www.worldometers.info/img/flags/fj-flag.gif
+South America,Falkland Islands,FK,FLK,https://www.worldometers.info/img/flags/fk-flag.gif
+Europe,France,FR,FRA,https://www.worldometers.info/img/flags/fr-flag.gif
+Europe,Faeroe Islands,FO,FRO,https://www.worldometers.info/img/flags/fo-flag.gif
+Oceania,Micronesia (country),FM,FSM,https://www.worldometers.info/img/flags/fm-flag.gif
+Africa,Gabon,GA,GAB,https://www.worldometers.info/img/flags/ga-flag.gif
+Europe,United Kingdom,GB,GBR,https://www.worldometers.info/img/flags/gb-flag.gif
+Asia,Georgia,GE,GEO,https://www.worldometers.info/img/flags/ge-flag.gif
+Europe,Guernsey,GG,GGY,https://www.worldometers.info/img/flags/gg-flag.gif
+Africa,Ghana,GH,GHA,https://www.worldometers.info/img/flags/gh-flag.gif
+Europe,Gibraltar,GI,GIB,https://www.worldometers.info/img/flags/gi-flag.gif
+Africa,Guinea,GN,GIN,https://www.worldometers.info/img/flags/gn-flag.gif
+Africa,Gambia,GM,GMB,https://www.worldometers.info/img/flags/gm-flag.gif
+Africa,Guinea-Bissau,GW,GNB,https://www.worldometers.info/img/flags/gw-flag.gif
+Africa,Equatorial Guinea,GQ,GNQ,https://www.worldometers.info/img/flags/gq-flag.gif
+Europe,Greece,GR,GRC,https://www.worldometers.info/img/flags/gr-flag.gif
+North America,Grenada,GD,GRD,https://www.worldometers.info/img/flags/gd-flag.gif
+North America,Greenland,GL,GRL,https://www.worldometers.info/img/flags/gl-flag.gif
+North America,Guatemala,GT,GTM,https://www.worldometers.info/img/flags/gt-flag.gif
+South America,Guyana,GY,GUY,https://www.worldometers.info/img/flags/gy-flag.gif
+Asia,Hong Kong,HK,HKG,https://www.worldometers.info/img/flags/hk-flag.gif
+North America,Honduras,HN,HND,https://www.worldometers.info/img/flags/hn-flag.gif
+Europe,Croatia,HR,HRV,https://www.worldometers.info/img/flags/hr-flag.gif
+North America,Haiti,HT,HTI,https://www.worldometers.info/img/flags/ht-flag.gif
+Europe,Hungary,HU,HUN,https://www.worldometers.info/img/flags/hu-flag.gif
+Asia,Indonesia,ID,IDN,https://www.worldometers.info/img/flags/id-flag.gif
+Europe,Isle of Man,IM,IMN,https://www.worldometers.info/img/flags/im-flag.gif
+Asia,India,IN,IND,https://www.worldometers.info/img/flags/in-flag.gif
+Europe,Ireland,IE,IRL,https://www.worldometers.info/img/flags/ie-flag.gif
+Asia,Iran,IR,IRN,https://www.worldometers.info/img/flags/ir-flag.gif
+Asia,Iraq,IQ,IRQ,https://www.worldometers.info/img/flags/iq-flag.gif
+Europe,Iceland,IS,ISL,https://www.worldometers.info/img/flags/is-flag.gif
+Asia,Israel,IL,ISR,https://www.worldometers.info/img/flags/il-flag.gif
+Europe,Italy,IT,ITA,https://www.worldometers.info/img/flags/it-flag.gif
+North America,Jamaica,JM,JAM,https://www.worldometers.info/img/flags/jm-flag.gif
+Europe,Jersey,JE,JEY,https://www.worldometers.info/img/flags/je-flag.gif
+Asia,Jordan,JO,JOR,https://www.worldometers.info/img/flags/jo-flag.gif
+Asia,Japan,JP,JPN,https://www.worldometers.info/img/flags/jp-flag.gif
+Asia,Kazakhstan,KZ,KAZ,https://www.worldometers.info/img/flags/kz-flag.gif
+Africa,Kenya,KE,KEN,https://www.worldometers.info/img/flags/ke-flag.gif
+Asia,Kyrgyzstan,KG,KGZ,https://www.worldometers.info/img/flags/kg-flag.gif
+Asia,Cambodia,KH,KHM,https://www.worldometers.info/img/flags/kh-flag.gif
+Oceania,Kiribati,KI,KIR,https://www.worldometers.info/img/flags/ki-flag.gif
+North America,Saint Kitts and Nevis,KN,KNA,https://www.worldometers.info/img/flags/kn-flag.gif
+Asia,South Korea,KR,KOR,https://www.worldometers.info/img/flags/kr-flag.gif
+Asia,Kuwait,KW,KWT,https://www.worldometers.info/img/flags/kw-flag.gif
+Asia,Laos,LA,LAO,https://www.worldometers.info/img/flags/la-flag.gif
+Asia,Lebanon,LB,LBN,https://www.worldometers.info/img/flags/lb-flag.gif
+Africa,Liberia,LR,LBR,https://www.worldometers.info/img/flags/lr-flag.gif
+Africa,Libya,LY,LBY,https://www.worldometers.info/img/flags/ly-flag.gif
+North America,Saint Lucia,LC,LCA,https://www.worldometers.info/img/flags/lc-flag.gif
+Europe,Liechtenstein,LI,LIE,https://www.worldometers.info/img/flags/li-flag.gif
+Asia,Sri Lanka,LK,LKA,https://www.worldometers.info/img/flags/lk-flag.gif
+Africa,Lesotho,LS,LSO,https://www.worldometers.info/img/flags/ls-flag.gif
+Europe,Lithuania,LT,LTU,https://www.worldometers.info/img/flags/lt-flag.gif
+Europe,Luxembourg,LU,LUX,https://www.worldometers.info/img/flags/lu-flag.gif
+Europe,Latvia,LV,LVA,https://www.worldometers.info/img/flags/lv-flag.gif
+Asia,Macao,MO,MAC,https://www.worldometers.info/img/flags/mo-flag.gif
+Africa,Morocco,MA,MAR,https://www.worldometers.info/img/flags/ma-flag.gif
+Europe,Monaco,MC,MCO,https://www.worldometers.info/img/flags/mc-flag.gif
+Europe,Moldova,MD,MDA,https://www.worldometers.info/img/flags/md-flag.gif
+Africa,Madagascar,MG,MDG,https://www.worldometers.info/img/flags/mg-flag.gif
+Asia,Maldives,MV,MDV,https://www.worldometers.info/img/flags/mv-flag.gif
+North America,Mexico,MX,MEX,https://www.worldometers.info/img/flags/mx-flag.gif
+Oceania,Marshall Islands,MH,MHL,https://www.worldometers.info/img/flags/mh-flag.gif
+Europe,North Macedonia,MK,MKD,https://www.worldometers.info/img/flags/mk-flag.gif
+Africa,Mali,ML,MLI,https://www.worldometers.info/img/flags/ml-flag.gif
+Europe,Malta,MT,MLT,https://www.worldometers.info/img/flags/mt-flag.gif
+Asia,Myanmar,MM,MMR,https://www.worldometers.info/img/flags/mm-flag.gif
+Europe,Montenegro,ME,MNE,https://www.worldometers.info/img/flags/me-flag.gif
+Asia,Mongolia,MN,MNG,https://www.worldometers.info/img/flags/mn-flag.gif
+Africa,Mozambique,MZ,MOZ,https://www.worldometers.info/img/flags/mz-flag.gif
+Africa,Mauritania,MR,MRT,https://www.worldometers.info/img/flags/mr-flag.gif
+North America,Montserrat,MS,MSR,https://www.worldometers.info/img/flags/ms-flag.gif
+Africa,Mauritius,MU,MUS,https://www.worldometers.info/img/flags/mu-flag.gif
+Africa,Malawi,MW,MWI,https://www.worldometers.info/img/flags/mw-flag.gif
+Asia,Malaysia,MY,MYS,https://www.worldometers.info/img/flags/my-flag.gif
+Africa,Namibia,NA,NAM,https://www.worldometers.info/img/flags/na-flag.gif
+Oceania,New Caledonia,NC,NCL,https://www.worldometers.info/img/flags/nc-flag.gif
+Africa,Niger,NE,NER,https://www.worldometers.info/img/flags/ne-flag.gif
+Africa,Nigeria,NG,NGA,https://www.worldometers.info/img/flags/ng-flag.gif
+North America,Nicaragua,NI,NIC,https://www.worldometers.info/img/flags/ni-flag.gif
+Oceania,Niue,NU,NIU,https://www.worldometers.info/img/flags/nu-flag.gif
+Europe,Netherlands,NL,NLD,https://www.worldometers.info/img/flags/nl-flag.gif
+Europe,Norway,NO,NOR,https://www.worldometers.info/img/flags/no-flag.gif
+Asia,Nepal,NP,NPL,https://www.worldometers.info/img/flags/np-flag.gif
+Oceania,Nauru,NR,NRU,https://www.worldometers.info/img/flags/nr-flag.gif
+Oceania,New Zealand,NZ,NZL,https://www.worldometers.info/img/flags/nz-flag.gif
+Asia,Oman,OM,OMN,https://www.worldometers.info/img/flags/om-flag.gif
+Asia,Pakistan,PK,PAK,https://www.worldometers.info/img/flags/pk-flag.gif
+North America,Panama,PA,PAN,https://www.worldometers.info/img/flags/pa-flag.gif
+Oceania,Pitcairn,PN,PCN,https://www.worldometers.info/img/flags/pn-flag.gif
+South America,Peru,PE,PER,https://www.worldometers.info/img/flags/pe-flag.gif
+Asia,Philippines,PH,PHL,https://www.worldometers.info/img/flags/ph-flag.gif
+Oceania,Palau,PW,PLW,https://www.worldometers.info/img/flags/pw-flag.gif
+Oceania,Papua New Guinea,PG,PNG,https://www.worldometers.info/img/flags/pg-flag.gif
+Europe,Poland,PL,POL,https://www.worldometers.info/img/flags/pl-flag.gif
+Europe,Portugal,PT,PRT,https://www.worldometers.info/img/flags/pt-flag.gif
+South America,Paraguay,PY,PRY,https://www.worldometers.info/img/flags/py-flag.gif
+Asia,Palestine,PS,PSE,https://www.worldometers.info/img/flags/ps-flag.gif
+Oceania,French Polynesia,PF,PYF,https://www.worldometers.info/img/flags/pf-flag.gif
+Asia,Qatar,QA,QAT,https://www.worldometers.info/img/flags/qa-flag.gif
+Europe,Romania,RO,ROU,https://www.worldometers.info/img/flags/ro-flag.gif
+Europe,Russia,RU,RUS,https://www.worldometers.info/img/flags/ru-flag.gif
+Africa,Rwanda,RW,RWA,https://www.worldometers.info/img/flags/rw-flag.gif
+Asia,Saudi Arabia,SA,SAU,https://www.worldometers.info/img/flags/sa-flag.gif
+Africa,Sudan,SD,SDN,https://www.worldometers.info/img/flags/sd-flag.gif
+Africa,Senegal,SN,SEN,https://www.worldometers.info/img/flags/sn-flag.gif
+Asia,Singapore,SG,SGP,https://www.worldometers.info/img/flags/sg-flag.gif
+Africa,Saint Helena,SH,SHN,https://www.worldometers.info/img/flags/sh-flag.gif
+Oceania,Solomon Islands,SB,SLB,https://www.worldometers.info/img/flags/sb-flag.gif
+Africa,Sierra Leone,SL,SLE,https://www.worldometers.info/img/flags/sl-flag.gif
+North America,El Salvador,SV,SLV,https://www.worldometers.info/img/flags/sv-flag.gif
+Europe,San Marino,SM,SMR,https://www.worldometers.info/img/flags/sm-flag.gif
+Africa,Somalia,SO,SOM,https://www.worldometers.info/img/flags/so-flag.gif
+North America,Saint Pierre and Miquelon,PM,SPM,https://www.worldometers.info/img/flags/pm-flag.gif
+Europe,Serbia,RS,SRB,https://www.worldometers.info/img/flags/rs-flag.gif
+Africa,South Sudan,SS,SSD,https://www.worldometers.info/img/flags/ss-flag.gif
+Africa,Sao Tome and Principe,ST,STP,https://www.worldometers.info/img/flags/st-flag.gif
+South America,Suriname,SR,SUR,https://www.worldometers.info/img/flags/sr-flag.gif
+Europe,Slovakia,SK,SVK,https://www.worldometers.info/img/flags/sk-flag.gif
+Europe,Slovenia,SI,SVN,https://www.worldometers.info/img/flags/si-flag.gif
+Europe,Sweden,SE,SWE,https://www.worldometers.info/img/flags/se-flag.gif
+Africa,Eswatini,SZ,SWZ,https://www.worldometers.info/img/flags/sz-flag.gif
+North America,Sint Maarten (Dutch part),SX,SXM,https://www.worldometers.info/img/flags/sx-flag.gif
+Africa,Seychelles,SC,SYC,https://www.worldometers.info/img/flags/sc-flag.gif
+Asia,Syria,SY,SYR,https://www.worldometers.info/img/flags/sy-flag.gif
+North America,Turks and Caicos Islands,TC,TCA,https://www.worldometers.info/img/flags/tc-flag.gif
+Africa,Chad,TD,TCD,https://www.worldometers.info/img/flags/td-flag.gif
+Africa,Togo,TG,TGO,https://www.worldometers.info/img/flags/tg-flag.gif
+Asia,Thailand,TH,THA,https://www.worldometers.info/img/flags/th-flag.gif
+Asia,Tajikistan,TJ,TJK,https://www.worldometers.info/img/flags/tj-flag.gif
+Oceania,Tokelau,TK,TKL,https://www.worldometers.info/img/flags/tk-flag.gif
+Asia,Turkmenistan,TM,TKM,https://www.worldometers.info/img/flags/tm-flag.gif
+Asia,Timor,TL,TLS,https://www.worldometers.info/img/flags/tl-flag.gif
+Oceania,Tonga,TO,TON,https://www.worldometers.info/img/flags/to-flag.gif
+North America,Trinidad and Tobago,TT,TTO,https://www.worldometers.info/img/flags/tt-flag.gif
+Africa,Tunisia,TN,TUN,https://www.worldometers.info/img/flags/tn-flag.gif
+Asia,Turkey,TR,TUR,https://www.worldometers.info/img/flags/tr-flag.gif
+Oceania,Tuvalu,TV,TUV,https://www.worldometers.info/img/flags/tv-flag.gif
+Asia,Taiwan,TW,TWN,https://www.worldometers.info/img/flags/tw-flag.gif
+Africa,Tanzania,TZ,TZA,https://www.worldometers.info/img/flags/tz-flag.gif
+Africa,Uganda,UG,UGA,https://www.worldometers.info/img/flags/ug-flag.gif
+Europe,Ukraine,UA,UKR,https://www.worldometers.info/img/flags/ua-flag.gif
+South America,Uruguay,UY,URY,https://www.worldometers.info/img/flags/uy-flag.gif
+North America,United States,US,USA,https://www.worldometers.info/img/flags/us-flag.gif
+Asia,Uzbekistan,UZ,UZB,https://www.worldometers.info/img/flags/uz-flag.gif
+Europe,Vatican,VA,VAT,https://www.worldometers.info/img/flags/va-flag.gif
+North America,Saint Vincent and the Grenadines,VC,VCT,https://www.worldometers.info/img/flags/vc-flag.gif
+South America,Venezuela,VE,VEN,https://www.worldometers.info/img/flags/ve-flag.gif
+North America,British Virgin Islands,VG,VGB,https://www.worldometers.info/img/flags/vg-flag.gif
+Asia,Vietnam,VN,VNM,https://www.worldometers.info/img/flags/vn-flag.gif
+Oceania,Vanuatu,VU,VUT,https://www.worldometers.info/img/flags/vu-flag.gif
+Oceania,Wallis and Futuna,WF,WLF,https://www.worldometers.info/img/flags/wf-flag.gif
+Oceania,Samoa,WS,WSM,https://www.worldometers.info/img/flags/ws-flag.gif
+Asia,Yemen,YE,YEM,https://www.worldometers.info/img/flags/ye-flag.gif
+Africa,South Africa,ZA,ZAF,https://www.worldometers.info/img/flags/za-flag.gif
+Africa,Zambia,ZM,ZMB,https://www.worldometers.info/img/flags/zm-flag.gif
+Africa,Zimbabwe,ZW,ZWE,https://www.worldometers.info/img/flags/zw-flag.gif
